@@ -8,7 +8,7 @@
 - &#x1F4DA; I'm a student at Centro Universitario de Los Altos - Universidad de Guadalajara
 - &#x1F4F1; I like everything that has to do with OS, smart devices, and gadgets
 
-### Languages:
+## Languages:
 
 <img align="left" alt="c++" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
@@ -24,7 +24,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diego-ornelas4952&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br>
 
